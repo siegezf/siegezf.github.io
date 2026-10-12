@@ -1,0 +1,224 @@
+{
+ "categories": [
+  {
+   "id": "care",
+   "name": "Fragrance & Personal Care",
+   "short": "Fragrance"
+  },
+  {
+   "id": "clean",
+   "name": "Cleaning & Hygiene",
+   "short": "Cleaning"
+  },
+  {
+   "id": "home",
+   "name": "Home & Car Fragrance",
+   "short": "Home & Car"
+  },
+  {
+   "id": "fashion",
+   "name": "Fashion & Clothing",
+   "short": "Fashion"
+  }
+ ],
+ "products": [
+  {
+   "id": "spray-perfumes",
+   "name": "Spray perfumes",
+   "category": "care",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "oil-perfumes",
+   "name": "Oil perfumes",
+   "category": "care",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "body-scrub",
+   "name": "Body scrub",
+   "category": "care",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "petroleum-jelly",
+   "name": "Petroleum jelly",
+   "category": "care",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "shower-gel",
+   "name": "Shower gel",
+   "category": "care",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "liquid-soap",
+   "name": "Liquid soap",
+   "category": "clean",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "powder-detergent",
+   "name": "Powder detergent",
+   "category": "clean",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "washing-soap",
+   "name": "Washing soap",
+   "category": "clean",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "bleach",
+   "name": "Bleach",
+   "category": "clean",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "antiseptic",
+   "name": "Antiseptic",
+   "category": "clean",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "disinfectant-germicide",
+   "name": "Disinfectant/germicide",
+   "category": "clean",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "reed-diffusers",
+   "name": "Reed diffusers",
+   "category": "home",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "car-diffusers",
+   "name": "Car diffusers",
+   "category": "home",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "air-fresheners",
+   "name": "Air fresheners",
+   "category": "home",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "joggers",
+   "name": "Joggers",
+   "category": "fashion",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "hoodies",
+   "name": "Hoodies",
+   "category": "fashion",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "cargo-pants",
+   "name": "Cargo pants",
+   "category": "fashion",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  },
+  {
+   "id": "vintage-shirts",
+   "name": "Vintage shirts",
+   "category": "fashion",
+   "image": null,
+   "description": null,
+   "price": null,
+   "currency": null,
+   "variants": [],
+   "availability": null
+  }
+ ]
+}
